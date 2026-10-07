@@ -1,4 +1,4 @@
-# gdg-github-demo-2026
+# Intro to Git GDG x CSCU Workshop
 
 Welcome to the Programming Essentials workshop by GDG x CSCU x ECESTORMS!
 We will be using this repository to practice what we learned tonight.
